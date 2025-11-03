@@ -52,6 +52,10 @@
   allowfullscreen
   style="border: 5px solid #fff; border-radius: 8px;">
 </iframe>
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  style="border: 5px solid #fff; border-radius: 8px;">
+</iframe>
 
   
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
